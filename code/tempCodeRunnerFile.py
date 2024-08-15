@@ -1,0 +1,1 @@
+image_to_classify_copy = image_to_classify.copy()
